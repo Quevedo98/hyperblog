@@ -4,4 +4,4 @@ Esta es la historia de prueba para probar
 otra linea de prueba para la utilizacion de git, tengo 22 anos, 
 y vivo en san salvador
 
-Este es el final del texto.
+Este es el final de la historia.
